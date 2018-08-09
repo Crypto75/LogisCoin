@@ -1,4 +1,4 @@
-LogisCoin (fork of PIVX) integration/staging repository
+LogisCoin Core (fork of PIVX) integration/staging repository
 ======================================
 
 
