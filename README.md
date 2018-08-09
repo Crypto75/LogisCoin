@@ -19,7 +19,7 @@ Installation of libraries (using root user):
 Cloning the repository and compiling (use any user with the sudo group):
 
     cd
-    git clone https://github.com/lpcproject/LogisCoin.git
+    git clone https://github.com/lgsproject/LogisCoin.git
     cd LogisCoin
     ./autogen.sh
     ./configure
@@ -45,7 +45,7 @@ Demon status:
 
 All binaries for different operating systems, you can download in the releases repository:
 
-https://github.com/lpcproject/LogisCoin/releases
+https://github.com/lgsproject/LogisCoin/releases
 
 P2P port: 48484, RPC port: 48483
 -
