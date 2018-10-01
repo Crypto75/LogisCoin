@@ -2,7 +2,7 @@ LogisCoin Core (fork of PIVX) integration/staging repository
 ======================================
 
 
-It is recommended [use the shell script](https://github.com/lgsproject/lgs-install) to install a LogisCoin Masternode on a Linux server running Ubuntu 14.04, 16.04 or 18.04
+It is recommended [use the shell script](https://github.com/lgsproject/lgs-install) to install a LogisCoin Masternode on a Linux server running Ubuntu 14.04, 16.04, 18.04
 
 ***
 
